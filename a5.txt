@@ -1,0 +1,4 @@
+feat: add summary http client
+Configure Ollama integration
+Return concise JSON response for summarizer
+some text some text some text some text some text some text
